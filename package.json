@@ -1,0 +1,16 @@
+{
+  "name": "@ecomanalyticsorg/ecom-aws-spapi-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "Ecom-Analytics-Co/ecom-aws-spapi-util",
+  "author": "rahulserver",
+  "license": "ISC",
+  "dependencies": {
+    "amazon-sp-api": "^0.7.10",
+    "mysql": "^2.18.1"
+  }
+}
