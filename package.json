@@ -1,6 +1,7 @@
 {
   "name": "@ecomanalyticsorg/ecom-aws-spapi-util",
-  "version": "1.0.0",
+  "type": "module",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
