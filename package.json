@@ -1,11 +1,12 @@
 {
   "name": "@ecomanalyticsorg/ecom-aws-spapi-util",
   "type": "module",
-  "version": "2.0.24",
+  "version": "2.0.28",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish --access public"
   },
   "repository": "Ecom-Analytics-Co/ecom-aws-spapi-util",
   "author": "rahulserver",
